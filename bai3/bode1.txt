@@ -1,0 +1,19 @@
+3
+1. mon nao kho nhat trong cntt ?
+a. ki thuat lap trinh
+b. Nhap mon lap trinh
+c. xu ly anh
+d. Thong ke may tinh
+a
+2. cau lac bo giau truyen thong nuoc anh ?
+a. Chelsea
+b. Manchester United
+c. Norwich City
+d.Liverpool
+b
+3. nen kinh te lon nhat the gioi ?
+a. My
+b. nhat ban
+c. Dai loan
+d. Phap
+a

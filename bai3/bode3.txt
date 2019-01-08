@@ -1,0 +1,19 @@
+3
+1. thu tuong viet nam la ai ?
+a. Nguyen xuan phuc 
+b. Huynh Minh Chien
+c. Nguyen Tan phat
+d. Bui tien dung
+a
+2. o viet nam  ngon ngu pho bien de viet web ?
+a. php
+b. java
+c. c
+d. nodejs
+a
+3. ai la ca si ve nhac tru tinh
+a. Dam vinh hung
+b. son tung mtp
+c. cao thai som 
+d. Ho Ngoc Chung
+a
